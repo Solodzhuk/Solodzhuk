@@ -7,3 +7,4 @@
 проверить статус репозитория: git status
 сделать комит: git commit -m “branch instructions”
 отправить изменения на сервер: git push
+Ya uzhe vse opisal
